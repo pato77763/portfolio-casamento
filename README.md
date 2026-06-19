@@ -1,5 +1,4 @@
-
-   git add .
+git add .
    git commit -m "feat: site de portfolio de fotografia de casamento otimizado
    git branch -m main
    git remote add origin https://github.com/pato77763/portfólio-casamento.git
