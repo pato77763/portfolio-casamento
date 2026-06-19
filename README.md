@@ -18,3 +18,6 @@ View your app in AI Studio: https://ai.studio/apps/90bce9f1-458b-4d1a-8191-1b038
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+git add .
+git commit -m "style: organizando imagens na rota fisica public para vercel"
+git push origin main
