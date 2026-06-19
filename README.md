@@ -1,4 +1,4 @@
-   git init
+
    git add .
    git commit -m "feat: site de portfolio de fotografia de casamento otimizado
    git branch -m main
